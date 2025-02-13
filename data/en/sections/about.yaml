@@ -66,7 +66,9 @@ resourceLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# badges:
+
+badges:
+
 # - type: certification
 #   name: Certified Azure AI Engineer
 #   url: "https://learn.microsoft.com/api/credentials/share/en-us/VishnuNageshKumar-2864/50DC18F0D1CA6726?sharingId=BB8036AAFBE4C0C0"
