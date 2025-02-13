@@ -27,9 +27,7 @@ buttons:
 skills:
 - name: Python
   # logo: /images/sections/skills/python.png
-  summary: 
-     - "Primary programming language: 8+ years of exp"
-     - "Experienced in General purpose and data science stack"
+  summary: "Primary programming language: 8+ years of exp. Experienced in General purpose and data science stack"
   categories: ["programming"]
   # url: ""
 
@@ -41,25 +39,18 @@ skills:
 
 - name: AWS
   # logo: /images/sections/skills/cloud.png
-  summary: 
-    - "Primary cloud platform: expertise in services such as S3, ECS, Lambda, Glue, EMR, DynamoDB etc."
-    - "Expertise in building ETL pipelines with AWS"
-    - "Utilized Databricks on AWS"
+  summary: "Primary cloud platform: expertise in services such as S3, ECS, Lambda, Glue, EMR, DynamoDB etc. Expertise in building ETL pipelines with AWS"
   categories: ["cloud"]
 
 - name: Azure
   # logo: /images/sections/skills/docker.svg
-  summary: 
-    - "Microsoft certified Azure AI Engineer Assocaite"
-    - "Over 3+ years of experience in Azure"
+  summary: "Microsoft certified Azure AI Engineer Assocaite. Over 3+ years of experience in Azure"
   categories: ["cloud"]
   # url: "https://www.docker.com/"
 
 - name: Databricks
   # logo: /images/sections/skills/linux.png
-  summary: 
-    - "Strong experience using Databricks building data lakehouse arch on AWS"
-    - "Building medallion workflows"
+  summary: "Strong experience using Databricks building data lakehouse arch on AWS. Building medallion workflows"
   categories: ["data"]
 
 - name: Git
