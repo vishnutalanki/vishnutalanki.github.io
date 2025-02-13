@@ -54,32 +54,32 @@ experiences:
   - designation: Data Engineer Consultant, Strategy & Analytics
     start: Apr 2021
     end: Apr 2023
-  - designation: "Data Engineer Consultant (Client: Meta/Facebook)"
+  - designation: "Data Engineering Consultant (Client: Meta/Facebook)"
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vison - Half-yearly Developer Experience Survey to inform data driven feature development for Facebook's internal tools
+      - Value -  Design, Develop and maintain all data ingress and egress and complete ETL workflows for the survey data (incl. dashboarding)
+      - Leadership - Worked as an IC at Meta interfacing with stakeholders all across the spectrum from C-Suite to Engineers
+      - Key challenges - Multiple technologies, neccesity of different mental models while working with differnt levels of stakeholders 
+      - Tech Stack - Qualtrics, Python, SQL, Dashboarding, cross-functional collobaration, consulting
+      - Impact - Succesfully conducted survey for 13000+ developers across Meta, designed multiple levels of dashboards and built fast pipelines using DataSwarm
 
-  - designation: "Data Engineer Consultant (Client: Alphabet/Google)"
+  - designation: "Data Engineering/Strategy Consultant (Client: Alphabet/Google)"
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vison - Capturing and Reporting key metrics to inform data driven decision for the Sales Development team at GCP
+      - Value -  Created highly visible and granular dashboards for the Sales Development team at GCP - split by business size, region, etc.
+      - Leadership - Instrumental in bringing about a agile, task-tracking mindset by using Asana, assumed responsibility for the team's task tracking
+      - Key challenges - Working with managers and analysts responsible for different regions, business sizes, and product lines - juggling work/prioritization
+      - Tech Stack - Python, SQL, Google PLX Studio, Asana, Consulting, Hive, BigQuery
+      - Impact - Enhanced data visibility and decision making for the Sales Development team at GCP, improved task tracking and prioritization
 
   - designation: "Data Engineer Consultant (Client: Disney)"
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vison - Governance and Standardization of data in the Genie team at Disney handling data for FastPass, Park reservations, etc.
+      - Value -  Collaborated with multiple stakeholders to create unified metadata management (ID - Mapping), cataloging and data governance (CCPA, GDPR)
+      - Leadership - Worked closely with contractors and stakeholders, served as a liason between the Genie team and the contractors
+      - Key challenges - Large number of stakeholders, difficulty in prioritization, creating multiple models, etc.
+      - Tech Stack - Snowflake, dbt, Python, SQL, Data Governance, Metadata Management, Consulting, AWS S3, AWS DynamoDB, AWS Glue
+      - Impact - Enhanced compliance and metadata management for the Genie team at Disney. Over 1000+ tables were cataloged and made compliant with CCPA, GDPR
 
 - company:
     name: ISERP
