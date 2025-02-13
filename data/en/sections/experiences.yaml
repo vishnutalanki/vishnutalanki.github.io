@@ -111,27 +111,26 @@ experiences:
     start: Sep 2019
     end: Sep 2020
     responsibilities:
-      - Vision - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vision - Is negative news sentiment a predictor of conflict/violence/insurgency? - A NLP approach to predict insurgency based on news sentiment in the Sahel region
+      - Value -  Creating a hihgly modular web scraping and NLP pipeline for the Crisis Bureau focusing on news data, ACLED events, etc.
+      - Leadership - Led a team of 8 diverse individual with varied competencies, skills and backgrounds
+      - Key challenges - Complex scraping requirements, unavailable data, working with colliding schedules in academic setting
+      - Tech Stack - GCP, Python, NLP, Web Scraping, csv, json, pandas, numpy, scikit-learn, matplotlib, seaborn, requests, bs4
+      - Impact - Demonstrated weak correlation between negative news sentiment and insurgency in the Sahel region, created a highly modular and reusable pipeline for the Crisis Bureau
 
 - company:
     name: Great West Financial (Empower Retirement)
     url: "https://www.greatwest.com/life-insurance/"
     location: Bangalore, IN
-    logo: /images/sections/experiences/empower.jpg
     overview: A retirement plan provider that offers a variety of retirement savings and investment options.
   positions:
   - designation: Data Engineer, Core Team
     start: May 2017
     end: Sep 2019
     responsibilities:
-      - Vision - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vision - Build optimal tools and automations to enhance org-wide productivity and efficiency
+      - Value -  Adding value by automation, leveraging techncology, improving user exerpience
+      - Leadership - As my first job, I took everything as an opportunity to learn, an attitude I still carry today
+      - Key challenges - Working with legacy archaic systems, limited exposure to modern tech, first job challenges
+      - Tech Stack - AWS S3, AWS DynamoDB, Mulesoft, Python, SQL, react.js, oracle forms, oracle db, AWS Lambda, AWS API Gateway, HTML, CSS, bootstrap
+      - Impact - Generated key impact through automating highly complex and manual tasks, received multiple accolades for my work
