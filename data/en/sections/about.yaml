@@ -72,10 +72,10 @@ badges:
   url: "https://learn.microsoft.com/api/credentials/share/en-us/VishnuNageshKumar-2864/50DC18F0D1CA6726?sharingId=BB8036AAFBE4C0C0"
   badge: "files/microsoft_badge.png"
 
-# - type: certification
-#   name: Generative AI Fundamentals
-#   url: "https://credentials.databricks.com/5a2c5400-8ab2-4fcf-a6b6-2df078d9e1a4#acc.UBJS9AHp"
-#   badge: "files/databricks_generative_ai.png"
+- type: certification
+  name: Generative AI Fundamentals
+  url: "https://credentials.databricks.com/5a2c5400-8ab2-4fcf-a6b6-2df078d9e1a4#acc.UBJS9AHp"
+  badge: "files/databricks_generative_ai.png"
 
 # - type: certification
 #   name: Artificial Intelligence and Machine Learning
@@ -83,12 +83,12 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Creative Thinking
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Cross-Functional Collabaration
   percentage: 90
   color: yellow
 
