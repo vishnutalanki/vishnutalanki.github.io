@@ -66,16 +66,16 @@ resourceLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: Certified Azure AI Engineer
-  url: "https://learn.microsoft.com/api/credentials/share/en-us/VishnuNageshKumar-2864/50DC18F0D1CA6726?sharingId=BB8036AAFBE4C0C0"
-  badge: "files/microsoft_badge.png"
+# badges:
+# - type: certification
+#   name: Certified Azure AI Engineer
+#   url: "https://learn.microsoft.com/api/credentials/share/en-us/VishnuNageshKumar-2864/50DC18F0D1CA6726?sharingId=BB8036AAFBE4C0C0"
+#   badge: "files/microsoft_badge.png"
 
-- type: certification
-  name: Generative AI Fundamentals
-  url: "https://credentials.databricks.com/5a2c5400-8ab2-4fcf-a6b6-2df078d9e1a4#acc.UBJS9AHp"
-  badge: "files/databricks_generative_ai.png"
+# - type: certification
+#   name: Generative AI Fundamentals
+#   url: "https://credentials.databricks.com/5a2c5400-8ab2-4fcf-a6b6-2df078d9e1a4#acc.UBJS9AHp"
+#   badge: "files/databricks_generative_ai.png"
 
 # - type: certification
 #   name: Artificial Intelligence and Machine Learning
@@ -93,8 +93,23 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Leadership
+  percentage: 80
+  color: orange
+
+- type: soft-skill-indicator
+  name: Problem-Solving
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Fast-Learner
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Adaptability
+  percentage: 95
   color: orange
 
 # you can also provide color code instead of the color name
