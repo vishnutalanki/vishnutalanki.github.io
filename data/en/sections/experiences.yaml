@@ -19,7 +19,7 @@ experiences:
   - designation: Lead Data Engineer, Enterprise Data Lake 
     start: Jul 2024
     responsibilities:
-      - Vison - Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration
+      - Vision - Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration
       - Value - Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts
       - Leadership -  Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders
       - Key Challenges - Cross-border colloboration, limited exposure to key stakeholders
@@ -37,7 +37,7 @@ experiences:
     start: Apr 2023
     end: Apr 2024
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
+      - Vision - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
       - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
       - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
       - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
@@ -45,18 +45,17 @@ experiences:
       - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
 
 - company:
-    name: Deloiite
+    name: Deloiite (Strategy & Analytics)
     url: "https://www.deloitte.com"
     location: New York, NY
     logo: /images/sections/experiences/deloitte.jpg
     overview: A global professional services firm that provides audit, consulting, financial advisory, risk advisory, and tax services.
   positions:
-  - designation: Data Engineer Consultant, Strategy & Analytics
-    start: Apr 2021
-    end: Apr 2023
   - designation: "Data Engineering Consultant (Client: Meta/Facebook)"
+    start: Feb 2022
+    end: Apr 2023
     responsibilities:
-      - Vison - Half-yearly Developer Experience Survey to inform data driven feature development for Facebook's internal tools
+      - Vision - Half-yearly Developer Experience Survey to inform data driven feature development for Facebook's internal tools
       - Value -  Design, Develop and maintain all data ingress and egress and complete ETL workflows for the survey data (incl. dashboarding)
       - Leadership - Worked as an IC at Meta interfacing with stakeholders all across the spectrum from C-Suite to Engineers
       - Key challenges - Multiple technologies, neccesity of different mental models while working with differnt levels of stakeholders 
@@ -64,8 +63,10 @@ experiences:
       - Impact - Succesfully conducted survey for 13000+ developers across Meta, designed multiple levels of dashboards and built fast pipelines using DataSwarm
 
   - designation: "Data Engineering/Strategy Consultant (Client: Alphabet/Google)"
+    start: Oct 2021
+    end: Feb 2022
     responsibilities:
-      - Vison - Capturing and Reporting key metrics to inform data driven decision for the Sales Development team at GCP
+      - Vision - Capturing and Reporting key metrics to inform data driven decision for the Sales Development team at GCP
       - Value -  Created highly visible and granular dashboards for the Sales Development team at GCP - split by business size, region, etc.
       - Leadership - Instrumental in bringing about a agile, task-tracking mindset by using Asana, assumed responsibility for the team's task tracking
       - Key challenges - Working with managers and analysts responsible for different regions, business sizes, and product lines - juggling work/prioritization
@@ -73,8 +74,10 @@ experiences:
       - Impact - Enhanced data visibility and decision making for the Sales Development team at GCP, improved task tracking and prioritization
 
   - designation: "Data Engineer Consultant (Client: Disney)"
+    start: Apr 2021
+    end: Oct 2021
     responsibilities:
-      - Vison - Governance and Standardization of data in the Genie team at Disney handling data for FastPass, Park reservations, etc.
+      - Vision - Governance and Standardization of data in the Genie team at Disney handling data for FastPass, Park reservations, etc.
       - Value -  Collaborated with multiple stakeholders to create unified metadata management (ID - Mapping), cataloging and data governance (CCPA, GDPR)
       - Leadership - Worked closely with contractors and stakeholders, served as a liason between the Genie team and the contractors
       - Key challenges - Large number of stakeholders, difficulty in prioritization, creating multiple models, etc.
@@ -85,31 +88,30 @@ experiences:
     name: ISERP
     url: "https://iserp.columbia.edu/"
     location: New York, NY
-    logo: /images/sections/experiences/iserp.jpg
     overview: The Institute for Social and Economic Research and Policy at Columbia University, which conducts research on a variety of social and economic issues.
   positions:
   - designation: MLOps/Data Engineer, aimodelshare
     start: Sep 2020
     end: Feb 2021
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
-      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
-      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
-      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
-      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
-      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+      - Vision - Create a ML playground for researchers and students
+      - Value -  Enhanced data governance with automated redis archival mechanism, lambda functions for session data handling on Elasticache
+      - Leadership - Learned best practices and tools from the team, working closely with the lead social studies researchers from ISERP.
+      - Key challenges - Working on limited time due to visa restrictions, working with researchers who had limited exposure to data engineering
+      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Python, AWS Cloudwatch, AWS Lambda, AWS API Gateway, Linux
+      - Impact - Createad and deployed archiving mechanism for Redis using AWS LAmbda, AWS Cloudwatch and cron jobs
+
 - company:
     name: United Nations
     url: "https://www.un.org"
     location: New York, NY
-    logo: /images/sections/experiences/un.jpg
     overview: The United Nations Development Programme, a global development organization that works to reduce poverty and inequality.
   positions:
   - designation: NLP Engineer, Crisis Bureau
     start: Sep 2019
     end: Sep 2020
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
+      - Vision - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
       - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
       - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
       - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
@@ -127,7 +129,7 @@ experiences:
     start: May 2017
     end: Sep 2019
     responsibilities:
-      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
+      - Vision - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
       - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
       - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
       - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
