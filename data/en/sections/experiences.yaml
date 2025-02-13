@@ -19,12 +19,12 @@ experiences:
     designation: Lead Data Engineer, Enterprise Data Lake - test
     start: Jul 2024
     responsibilities:
-      - vision: "Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration"
-      - value: "Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts"
-      - leadership: "Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders"
-      - key_challenges: "Cross-border colloboration, limited exposure to key stakeholders"
-      - tech_stack: "AWS EMR, PySpark, Airflow, Snowflake, Python, SQL, AWS Lakeformation, Terraform"
-      - impact: "Reduced cloud spend by 35%, improved engineer efficiency and productivity: acheieved 15 SP goal on a consistent basis"
+      - vision "Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration"
+      - value "Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts"
+      - leadership "Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders"
+      - key_challenges "Cross-border colloboration, limited exposure to key stakeholders"
+      - tech_stack "AWS EMR, PySpark, Airflow, Snowflake, Python, SQL, AWS Lakeformation, Terraform"
+      - impact Reduced cloud spend by 35%, improved engineer efficiency and productivity, acheieved 15 SP goal on a consistent basis
   
 
 - company:
