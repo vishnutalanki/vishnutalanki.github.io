@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Lead Data Engineer
+designation: Lead Data Engineer [Microsoft certified Azure AI Engineer]
 # your company information
 # company:
 #   name: Chewy
@@ -19,7 +19,7 @@ designation: Lead Data Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I'm a passionate data engineer with 8 years of experience in the industry. My key passion lies in innovation - building something from scratch that solves a real-world problem. I like working on new things, solving problems, creating something new!. Deeply passionate about creating a major change/disruption in science/technology. [Microsoft certified Azure AI Engineer]"
+summary: "I'm a passionate data engineer with 8 years of experience in the industry. My key passion lies in innovation - building something from scratch that solves a real-world problem. I like working on new things, solving problems, creating something new!. Deeply passionate about creating a major change/disruption in science/technology."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
