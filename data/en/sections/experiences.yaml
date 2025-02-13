@@ -54,6 +54,25 @@ experiences:
   - designation: Data Engineer Consultant, Strategy & Analytics
     start: Apr 2021
     end: Apr 2023
+  - designation: "Data Engineer Consultant (Client: Meta/Facebook)"
+    responsibilities:
+      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
+      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
+      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
+      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
+      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
+      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+
+  - designation: "Data Engineer Consultant (Client: Alphabet/Google)"
+    responsibilities:
+      - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
+      - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
+      - Leadership - Mentored and collobrated with 5+ engineers spread out across various locations and competencies
+      - Key challenges - Working with raw data from various sources, large volumes of data, complex transformations and structures
+      - Tech Stack - AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform
+      - Impact - Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects
+
+  - designation: "Data Engineer Consultant (Client: Disney)"
     responsibilities:
       - Vison - Build an end-to-end ETL pipeline for sports data; medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc.
       - Value -  Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters
