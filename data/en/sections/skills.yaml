@@ -51,7 +51,7 @@ skills:
 
 - name: Terraform
   summary: "Proficient in Infrastructure-as-Code (IaC) using Terraform to automate provisioning of AWS services, including ECS, S3, and Lambda. Customized Terraform modules for efficient resource management and cost optimization."
-  categories: ["other", "cloud"]
+  categories: ["others", "cloud"]
 
 - name: Snowflake
   summary: "Experienced in building and optimizing ETL/ELT pipelines using Snowflake for large-scale data processing. Designed scalable data models and implemented dbt workflows to ensure data governance and compliance with PII regulations."
