@@ -57,3 +57,7 @@ skills:
   summary: "Experienced in building and optimizing ETL/ELT pipelines using Snowflake for large-scale data processing. Designed scalable data models and implemented dbt workflows to ensure data governance and compliance with PII regulations."
   categories: ["data", "cloud"]
 
+- name: dbt
+  summary: "Experienced in utilizing dbt for ELT in Snowflake for data masking/RBAC for GDPR and CCPA Compliance"
+  categories: ["data"]
+
