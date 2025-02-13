@@ -99,8 +99,7 @@ experiences:
     location: Bangalore, IN
     logo: /images/sections/experiences/empower.jpg
     overview: A retirement plan provider that offers a variety of retirement savings and investment options.
-  positions:
-  - designation: Data Engineer, Core Team
+    designation: Data Engineer, Core Team
     start: May 2017
     end: Sep 2019
     vision:
