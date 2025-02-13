@@ -11,81 +11,71 @@ section:
 
 degrees:
 - name: M.S. in Management Science and Engineering
-  icon: fa-microscope
   timeframe: 2019-2020
   institution:
     name: Columbia University in the City of New York
-    url: "#"
-    logo: /images/sections/education/columbia.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.6
-  #   outOf: 4
+    url: "https://www.columbia.edu/"
   Coursework: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
-  Info: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+    - name: Operations Consulting
+    - name: Managerial Negotiations
+    - name: Operations Strategy
+    - name: Innovate with Design Thinking
+
+  # Info: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Project
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
+  - Office @ Columbia BlockChain Lab
+  - Board Member @ Columbia Product Management Club
+  - Consultant with Amgen (Pharmaceuticals and Biotech)
+  
+  # customSections: #(optional)
+  #   - name: Project
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - name: Supervisor
+  #     content: Fusce eu augue ut odio porttitor pulvinar.
+
 - name: B.Eng in Electronics and Instrumentation
-  icon: fa-graduation-cap
+  # icon: fa-graduation-cap
   timeframe: 2013-2017
   institution:
     name: B.M.S. College of Engineering
     url: "https://www.bmsce.ac.in/"
-    logo: /images/sections/education/bms.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  # grade: #(optional)
-  #   scale: CGPA
-  #   achieved: 3.5
-  #   outOf: 4
+    # logo: /images/sections/education/bms.jpg
+    
   Coursework: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
-  Info: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+    - name: Object Oriented Programming with C++
+    - name: Operating Systems
+
+  # Info: 
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Member @ BMSCE Math Club
+  - Member @ BMSCE Quiz Society
+
   customSections: #(optional)
     - name: Project
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
+      content: •	Thesis Project – Real-time conversion of text-to-braille using Python, OpenCV and a 3D printed prototype. Awarded best project among 100+ teams across the university. 
+    # - name: Supervisor
+    #   content: Fusce eu augue ut odio porttitor pulvinar.
+
 # - name: Higher Secondary School Certificate
 #   icon: fa-university
 #   timeframe: 2010-2012
