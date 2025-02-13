@@ -16,7 +16,7 @@ experiences:
     location: Boston, MA
     overview: One of the largest online retailer of pet food and other pet-related products.
   positions:
-  - designation: Lead Data Engineer, Enterprise Data Lake
+  - designation: Lead Data Engineer, Enterprise Data Lake - test
     start: Jul 2024
     vision: "Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration"
     value: "Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts"
@@ -35,9 +35,9 @@ experiences:
   - designation: Senior Data Engineer, Sports Data Platform
     start: Apr 2023
     end: Apr 2024
-    vision:
-    value:
-    leadership:
+    vision: "Build an end-to-end ETL pipeline for sports data: medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc."
+    value: "Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters"
+    leadership: "Mentored and collobrated with 5+ engineers spread out across various locations and competencies"
     key_challenges:
     tech_stack:
     impact:
