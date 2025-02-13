@@ -19,94 +19,94 @@ experiences:
     designation: Lead Data Engineer, Enterprise Data Lake - test
     start: Jul 2024
     responsibilities:
-      - vision "Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration"
-      - value "Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts"
-      - leadership "Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders"
-      - key_challenges "Cross-border colloboration, limited exposure to key stakeholders"
-      - tech_stack "AWS EMR, PySpark, Airflow, Snowflake, Python, SQL, AWS Lakeformation, Terraform"
-      - impact Reduced cloud spend by 35%, improved engineer efficiency and productivity, acheieved 15 SP goal on a consistent basis
+      - vision - Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration
+      # - value Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts
+      # - leadership "Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders"
+      # - key_challenges "Cross-border colloboration, limited exposure to key stakeholders"
+      # - tech_stack "AWS EMR, PySpark, Airflow, Snowflake, Python, SQL, AWS Lakeformation, Terraform"
+      # - impact Reduced cloud spend by 35%, improved engineer efficiency and productivity, acheieved 15 SP goal on a consistent basis
   
 
-- company:
-    name: Fox Sports
-    url: "https://www.foxsports.com/"
-    location: New York, NY
-    overview: A national sports network that broadcasts live sporting events, sports news, and other sports-related content.
-  positions:
-  - designation: Senior Data Engineer, Sports Data Platform
-    start: Apr 2023
-    end: Apr 2024
-    vision: "Build an end-to-end ETL pipeline for sports data: medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc."
-    value: "Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters"
-    leadership: "Mentored and collobrated with 5+ engineers spread out across various locations and competencies"
-    key_challenges: "Working with raw data from various sources, large volumes of data, complex transformations and structures"
-    tech_stack: "AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform"
-    impact: "Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects"
+# - company:
+#     name: Fox Sports
+#     url: "https://www.foxsports.com/"
+#     location: New York, NY
+#     overview: A national sports network that broadcasts live sporting events, sports news, and other sports-related content.
+#   positions:
+#   - designation: Senior Data Engineer, Sports Data Platform
+#     start: Apr 2023
+#     end: Apr 2024
+#     vision: "Build an end-to-end ETL pipeline for sports data: medallion architecture; key leagues - MLB, NFL, NBA, NCAA, etc."
+#     value: "Create a highly visible, granular and enriched data catalog for Fox Sports analysts and sportscasters"
+#     leadership: "Mentored and collobrated with 5+ engineers spread out across various locations and competencies"
+#     key_challenges: "Working with raw data from various sources, large volumes of data, complex transformations and structures"
+#     tech_stack: "AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform"
+#     impact: "Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects"
 
-- company:
-    name: Deloiite
-    url: "https://www.deloitte.com"
-    location: New York, NY
-    logo: /images/sections/experiences/deloitte.jpg
-    overview: A global professional services firm that provides audit, consulting, financial advisory, risk advisory, and tax services.
-  positions:
-  - designation: Data Engineer Consultant, Strategy & Analytics
-    start: Apr 2021
-    end: Apr 2023
-    vision:
-    value:
-    leadership:
-    key_challenges:
-    tech_stack:
-    impact:
+# - company:
+#     name: Deloiite
+#     url: "https://www.deloitte.com"
+#     location: New York, NY
+#     logo: /images/sections/experiences/deloitte.jpg
+#     overview: A global professional services firm that provides audit, consulting, financial advisory, risk advisory, and tax services.
+#   positions:
+#   - designation: Data Engineer Consultant, Strategy & Analytics
+#     start: Apr 2021
+#     end: Apr 2023
+#     vision:
+#     value:
+#     leadership:
+#     key_challenges:
+#     tech_stack:
+#     impact:
 
-- company:
-    name: ISERP
-    url: "https://iserp.columbia.edu/"
-    location: New York, NY
-    logo: /images/sections/experiences/iserp.jpg
-    overview: The Institute for Social and Economic Research and Policy at Columbia University, which conducts research on a variety of social and economic issues.
-  positions:
-  - designation: MLOps/Data Engineer, aimodelshare
-    start: Sep 2020
-    end: Feb 2021
-    vision:
-    value:
-    leadership:
-    key_challenges:
-    tech_stack:
-    impact:
+# - company:
+#     name: ISERP
+#     url: "https://iserp.columbia.edu/"
+#     location: New York, NY
+#     logo: /images/sections/experiences/iserp.jpg
+#     overview: The Institute for Social and Economic Research and Policy at Columbia University, which conducts research on a variety of social and economic issues.
+#   positions:
+#   - designation: MLOps/Data Engineer, aimodelshare
+#     start: Sep 2020
+#     end: Feb 2021
+#     vision:
+#     value:
+#     leadership:
+#     key_challenges:
+#     tech_stack:
+#     impact:
 
-- company:
-    name: United Nations
-    url: "https://www.un.org"
-    location: New York, NY
-    logo: /images/sections/experiences/un.jpg
-    overview: The United Nations Development Programme, a global development organization that works to reduce poverty and inequality.
-  positions:
-  - designation: NLP Engineer, Crisis Bureau
-    start: Sep 2019
-    end: Sep 2020
-    vision:
-    value:
-    leadership:
-    key_challenges:
-    tech_stack:
-    impact:
+# - company:
+#     name: United Nations
+#     url: "https://www.un.org"
+#     location: New York, NY
+#     logo: /images/sections/experiences/un.jpg
+#     overview: The United Nations Development Programme, a global development organization that works to reduce poverty and inequality.
+#   positions:
+#   - designation: NLP Engineer, Crisis Bureau
+#     start: Sep 2019
+#     end: Sep 2020
+#     vision:
+#     value:
+#     leadership:
+#     key_challenges:
+#     tech_stack:
+#     impact:
 
-- company:
-    name: Great West Financial (Empower Retirement)
-    url: "https://www.greatwest.com/life-insurance/"
-    location: Bangalore, IN
-    logo: /images/sections/experiences/empower.jpg
-    overview: A retirement plan provider that offers a variety of retirement savings and investment options.
-  positions:
-  - designation: Data Engineer, Core Team
-    start: May 2017
-    end: Sep 2019
-    vision:
-    value:
-    leadership:
-    key_challenges:
-    tech_stack:
-    impact:
+# - company:
+#     name: Great West Financial (Empower Retirement)
+#     url: "https://www.greatwest.com/life-insurance/"
+#     location: Bangalore, IN
+#     logo: /images/sections/experiences/empower.jpg
+#     overview: A retirement plan provider that offers a variety of retirement savings and investment options.
+#   positions:
+#   - designation: Data Engineer, Core Team
+#     start: May 2017
+#     end: Sep 2019
+#     vision:
+#     value:
+#     leadership:
+#     key_challenges:
+#     tech_stack:
+#     impact:
