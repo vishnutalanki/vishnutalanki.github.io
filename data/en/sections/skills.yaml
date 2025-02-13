@@ -26,35 +26,34 @@ buttons:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python
-  # logo: /images/sections/skills/python.png
   summary: "Primary programming language: 8+ years of exp. Experienced in General purpose and data science stack"
   categories: ["programming"]
-  # url: ""
 
 - name: SQL
-  # logo: /images/sections/skills/go.png
   summary: "Strong day-to-day experience in all flavors of SQL: MySQL, PostgreSQL, etc."
-  categories: ["data", "language"]
-  # url: "https://golang.org/"
+  categories: ["data", "programming"]
 
 - name: AWS
-  # logo: /images/sections/skills/cloud.png
   summary: "Primary cloud platform: expertise in services such as S3, ECS, Lambda, Glue, EMR, DynamoDB etc. Expertise in building ETL pipelines with AWS"
   categories: ["cloud"]
 
 - name: Azure
-  # logo: /images/sections/skills/docker.svg
   summary: "Microsoft certified Azure AI Engineer Assocaite. Over 3+ years of experience in Azure"
   categories: ["cloud"]
-  # url: "https://www.docker.com/"
 
 - name: Databricks
-  # logo: /images/sections/skills/linux.png
   summary: "Strong experience using Databricks building data lakehouse arch on AWS. Building medallion workflows"
   categories: ["data"]
 
 - name: Git
-  # logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   categories: ["others"]
+
+- name: Terraform
+  summary: "Proficient in Infrastructure-as-Code (IaC) using Terraform to automate provisioning of AWS services, including ECS, S3, and Lambda. Customized Terraform modules for efficient resource management and cost optimization."
+  categories: ["other", "cloud"]
+
+- name: Snowflake
+  summary: "Experienced in building and optimizing ETL/ELT pipelines using Snowflake for large-scale data processing. Designed scalable data models and implemented dbt workflows to ensure data governance and compliance with PII regulations."
+  categories: ["data", "cloud"]
 
