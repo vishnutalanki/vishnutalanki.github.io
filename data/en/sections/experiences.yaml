@@ -15,10 +15,10 @@ experiences:
     url: "https://www.chewy.com"
     location: Boston, MA
     overview: One of the largest online retailer of pet food and other pet-related products.
-  information:
+  positions:
     designation: Lead Data Engineer, Enterprise Data Lake - test
     start: Jul 2024
-    vision: "Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration"
+    vision: Optimize ETL pipelines, cost reduction of ETL processes, enhanced cross-border colloboration
     value: "Reduction in cloud spending, medallion framework creation, key improvment in collobratory efforts"
     leadership: "Led and mentored a mixed tean of 20 engineers (DE, SWE), worked closely with Chewy SME's and stakeholders"
     key_challenges: "Cross-border colloboration, limited exposure to key stakeholders"
@@ -40,7 +40,7 @@ experiences:
     leadership: "Mentored and collobrated with 5+ engineers spread out across various locations and competencies"
     key_challenges: "Working with raw data from various sources, large volumes of data, complex transformations and structures"
     tech_stack: "AWS S3, AWS DynamoDB, AWS Elasticache Redis, Databricks, PySpark, Python, SQL, Mlflow, Terraform"
-    impact:
+    impact: "Succesful creation of data platform, enriched event-by-event data was used for hihgly impactful ML, AI downstream projects"
 
 - company:
     name: Deloiite
