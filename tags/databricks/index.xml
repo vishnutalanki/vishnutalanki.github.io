@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Databricks on Vishnu's Homepage</title><link>https://vishnutalanki.github.io/tags/databricks/</link><description>Recent content in Databricks on Vishnu's Homepage</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Feb 2025 16:17:10 +2000</lastBuildDate><atom:link href="https://vishnutalanki.github.io/tags/databricks/index.xml" rel="self" type="application/rss+xml"/><item><title>Fox Sports: Deep Dive (Senior Data Engineer)</title><link>https://vishnutalanki.github.io/posts/fox_sports/</link><pubDate>Sun, 16 Feb 2025 16:17:10 +2000</pubDate><guid>https://vishnutalanki.github.io/posts/fox_sports/</guid><description>&lt;h1 id="fox-sports-deep-dive-senior-data-engineer-sports-data-platform">&lt;strong>Fox Sports: Deep Dive (Senior Data Engineer, Sports Data Platform)&lt;/strong>&lt;/h1>
+&lt;h2 id="abstract">&lt;strong>Abstract&lt;/strong>&lt;/h2>
+&lt;p>The Fox Sports Data Platform was built to process, enrich, and serve real-time sports data for major leagues like the &lt;strong>NFL, MLB, and NBA&lt;/strong>. The project involved &lt;strong>building a scalable ETL pipeline&lt;/strong> capable of handling &lt;strong>1TB+ semi-structured data&lt;/strong>, exposing insights via &lt;strong>low-latency GraphQL APIs&lt;/strong>, and integrating &lt;strong>AI-driven sports analytics&lt;/strong> to enhance fan engagement.&lt;/p>
+&lt;p>This deep dive covers:&lt;/p>
+&lt;ul>
+&lt;li>The &lt;strong>vision&lt;/strong> behind the platform&lt;/li>
+&lt;li>The &lt;strong>business and technical value&lt;/strong>&lt;/li>
+&lt;li>My &lt;strong>specific role and leadership contributions&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Challenges faced &amp;amp; how they were overcome&lt;/strong>&lt;/li>
+&lt;li>How this experience prepares me for challenges at &lt;strong>Montai Therapeutics&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="1-vision">&lt;strong>1️⃣ Vision&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Why was this project initiated?&lt;/strong>&lt;/p></description></item></channel></rss>
