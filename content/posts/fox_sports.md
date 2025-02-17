@@ -13,8 +13,9 @@ menu:
 ---
 
 
-# **Fox Sports: Deep Dive**
-#### Senior Data Engineer, Sports Data Platform
+# **Fox Sports**
+Senior Data Engineer, Sports Data Platform
+New York
 
 ## **Abstract**
 The Fox Sports Data Platform was built to process, enrich, and serve real-time/historical sports data for major leagues like the **NFL, MLB, and NBA**. The project involved **building a scalable ETL pipeline** capable of handling on average **1TB+ semi-structured data**, exposing insights via **low-latency APIs**, and integrating **AI-driven sports analytics** to enhance fan engagement, next gen stats for sportscasters and overall data visibility.
@@ -53,9 +54,11 @@ This deep dive covers:
 
 ## **3️⃣ My Role**
 ### **🔹 Architecture & Tech Stack**
-- **Built ETL Pipelines** using **PySpark, Spark SQL, and Pydantic** for structured data ingestion.
-- **Designed & Optimized Data Lakehouse** using **AWS S3, Databricks, and Delta Lake**.
-- **Developed GraphQL APIs** for **real-time query access**.
+- **Built ETL Pipelines** using **PySpark, Spark SQL, and Pydantic** for structured data ingestion
+- **Designed & Optimized Data Lakehouse** using **AWS S3, Databricks, and Delta Lake**
+- **Developed GraphQL APIs** for **real-time query access**
+
+[View on Eraser![](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy/preview?elements=qfRjMXwdAEnOVqBlLC0n2g&type=embed)](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy?elements=qfRjMXwdAEnOVqBlLC0n2g)
 
 ### **Why Medallion/Delta Lake**
 Why did we choose Medallion or Delta Lake based Lakehouse arch *in this context*
