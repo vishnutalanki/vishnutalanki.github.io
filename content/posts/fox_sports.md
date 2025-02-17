@@ -58,7 +58,7 @@ This deep dive covers:
 - **Designed & Optimized Data Lakehouse** using **AWS S3, Databricks, and Delta Lake**
 - **Developed GraphQL APIs** for **real-time query access**
 
-[View on Eraser![](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy/preview?elements=qfRjMXwdAEnOVqBlLC0n2g&type=embed)](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy?elements=qfRjMXwdAEnOVqBlLC0n2g)
+[Medallion ETL Architecture![](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy/preview?elements=qfRjMXwdAEnOVqBlLC0n2g&type=embed)](https://app.eraser.io/workspace/yU5IYX8PGwQAzCe855Fy?elements=qfRjMXwdAEnOVqBlLC0n2g)
 
 ### **Why Medallion/Delta Lake**
 Why did we choose Medallion or Delta Lake based Lakehouse arch *in this context*
